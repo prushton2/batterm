@@ -58,7 +58,7 @@ while(1) {
         status = "󱐋"
     } elif (status == "Discharging\n") {
         status = " ";
-    } elif (status == "") {
+    } elif (status == "Not charging\n") {
         status = ""
     }
 

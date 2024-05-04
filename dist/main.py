@@ -64,7 +64,7 @@ while (1):
     elif (status =="Discharging\n"):
         status =" ";
         
-    elif (status ==""):
+    elif (status =="Not charging\n"):
         status =""
         
     
